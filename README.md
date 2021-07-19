@@ -1,1 +1,1 @@
-# css-sass-starter
+# css-sass-made-easy
