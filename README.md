@@ -12,3 +12,13 @@ Steps to install sass : (Open powershell terminal in the project folder)
 10. npm run dev(for testing purposes(faster)) or npm run build(before deployment; optimises(slower))!
 
 <br>These are starter files for sass installation<br>
+#Sass starter using Parcel
+How to use this repo?
+1. Clone the repo
+2. In your terminal, run npm install
+3. In your terminal, run npm run dev
+
+When you are ready to go to production
+In your terminal, run npm run build. The final version of your site will be in the dist folder.
+
+[Reference](https://www.youtube.com/watch?v=wYWf2m_yzBQ&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh&index=1)
