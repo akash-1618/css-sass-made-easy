@@ -9,4 +9,4 @@ Steps to install sass : (Open powershell terminal in the project folder)
 7. Delete dist folder completely.
 8. npm install parcel-bundler --save-dev or npm install parcel-bundler -D
 9. package.json -> <br> `"scripts": { "dev": "parcel src/index.html", "build": "parcel build sc/index.html" }`
-10. npm run dev(for testing purposes(faster)) or npm run build(before deployment; optimises(slower))![image](https://user-images.githubusercontent.com/43025153/126164140-8b0c7c18-b6ff-4cc3-898a-e3cb75727a2a.png)
+10. npm run dev(for testing purposes(faster)) or npm run build(before deployment; optimises(slower))!
